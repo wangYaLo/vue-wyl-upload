@@ -1,0 +1,7 @@
+src/
+index.html
+.DS_Store
+node_modules/
+npm-debug.log
+yarn-error.log
+webpack.config.js
